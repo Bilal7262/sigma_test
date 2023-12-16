@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "stripe-php-13.7.0-beta.1",
+			"path": "."
+		},
+		{
+			"name": "sigma_test",
+			"path": "../../../../wamp64/www/sigma_test"
+		}
+	],
+	"settings": {}
+}
